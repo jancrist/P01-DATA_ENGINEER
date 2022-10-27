@@ -1,3 +1,7 @@
+VER CARPETA ENTERA CON REPO + DATASETS : https://drive.google.com/drive/folders/1ju5Wu024Q59aaM8Hov3-VF5_mjzT_ANF?usp=sharing
+
+
+
 Bienvenido a mi proyecto 01 de Data Engineering!
 
 
